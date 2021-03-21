@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color:rgba(206, 194, 184, 0.856);
 }
 
 a {
@@ -294,7 +295,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #041c3b;
 }
 
 .section-title h2::after {
@@ -303,7 +304,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #272829;
   bottom: 0;
   left: 0;
 }
@@ -318,7 +319,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #272829;
 }
 
 .about .content ul {
@@ -1080,3 +1081,4 @@ section {
     padding-right: 20px 15px;
   }
 }
+
